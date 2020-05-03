@@ -1,2 +1,2 @@
 # 911-Calls-Project
-Manipulate 911 calls and visualizing the data
+Manipulate 911 calls data and visualizing them
